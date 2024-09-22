@@ -1,6 +1,6 @@
 ![Header](GithubPhoto.jpg)
 
-# Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
+# Hi, welcome to my GitHub! <img width="30" src="computer.gif"/>
 
 <p>I'm a cloud solution architect focused on data and AI at <strong><a href="https://microsoft.com/">Microsoft</a></strong>. 
 
