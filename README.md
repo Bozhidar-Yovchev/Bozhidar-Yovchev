@@ -2,13 +2,20 @@
 
 # Hi, welcome to my GitHub! <img width="60" src="computer.gif"/>
 
-<p>I'm a cloud solution architect focused on data and AI at <strong><a href="https://microsoft.com/">Microsoft</a></strong>. 
+<p>My name is Bozhidar and I am am an enthusiastic programmer with
+extensive experience in a variety of programming languages like C#, 
+C++, and Python. My passion lies in exploring the exciting world of AI,
+and I aim to specialize in machine learning and AI technologies in the future.
 
-I've been working with technology since 2012, and during this time I worked with the most diverse types of projects like: gamming programming, web programming, network management systems, business Intelligence and big data (data engineering and architecture). 
+I am also a bibliophile who loves to read literature on science, astronomy, psychology, 
+and technology in order to increase my knowledge and widen my perspective. Video gaming,
+walking in the woods, and traveling are my other interests during free times. Always, 
+it would be curiosity-gripping motives to know more about recent developments in AI 
+technologies and apply them to real-world problems.
 
-What has enchanted me the most is working with data projects seen that today we have a huge amount of data everywhere and by using the right technologies, we can get answers to solve big problems, impacting all society and making the world a better place.
+I look forward to reaching out to other developers
+and contributing to some exciting projects in the AI space!
 
-Take a look in some data projects which have already been making the world a better place: <strong><a href="https://www.microsoft.com/en-us/ai/ai-for-good">AI for Good</a></strong>.
 
 <br>
 
