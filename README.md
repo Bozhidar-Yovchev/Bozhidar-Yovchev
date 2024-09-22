@@ -1,6 +1,6 @@
 ![Header](GithubPhoto.jpg)
 
-# Hi, welcome to my GitHub! <img width="30" src="computer.gif"/>
+# Hi, welcome to my GitHub! <img width="60" src="computer.gif"/>
 
 <p>I'm a cloud solution architect focused on data and AI at <strong><a href="https://microsoft.com/">Microsoft</a></strong>. 
 
