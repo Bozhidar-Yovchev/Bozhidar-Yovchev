@@ -47,7 +47,7 @@ and contributing to some exciting projects in the AI space!
    
 <p align="center">
 
-<a href="https://www.linkedin.com/in/anacaroliness9/">
+<a href="[https://www.linkedin.com/in/anacaroliness9/](https://www.linkedin.com/in/bozhidar-yovchev-9555b7311/)">
   <code><img alt="My linkedin" width="32" src="klipartz.com.png" /></code>
 </a>
 <a href="mailto:anacaroliness9@hotmail.com">
