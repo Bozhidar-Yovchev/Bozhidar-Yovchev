@@ -50,8 +50,8 @@ and contributing to some exciting projects in the AI space!
 <a href="https://www.linkedin.com/in/bozhidar-yovchev-9555b7311/">
   <code><img alt="My linkedin" width="32" src="klipartz.com.png" /></code>
 </a>
-<a href="mailto:anacaroliness9@hotmail.com">
-<code><img alt="My e-mail" width="32" src="https://th.bing.com/th/id/R2c94e80bc439f8ac26eed33063918083?rik=4GOohs1wTVXZbQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fb%2fb1%2fEmail_Shiny_Icon.svg%2f1024px-Email_Shiny_Icon.svg.png&ehk=lV8sLmfGMfJDgFFgydLDuGp1fJVLXowNb1kShmsPDB4%3d&risl=&pid=ImgRaw" /></code>
+<a href="mailto:bozhidar601@gmail.com">
+<code><img alt="My e-mail" width="32" src="gmailIcon.png" /></code>
 </a>
 
 </p>
