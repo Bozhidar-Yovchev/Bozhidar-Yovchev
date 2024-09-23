@@ -24,10 +24,6 @@ and contributing to some exciting projects in the AI space!
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
 * <img width="16" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="" /> My most used language is C#
 * 📚 Love learning new stuff and teaching others
-* <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> As a challenge enthusiastic, I am diving into the data science world
-* 🏞️ Traveling is one of my favorite hobbies, as you can see from the image above, <a href="https://www.google.com/maps/place/51%C2%B026'25.4%22N+116%C2%B032'30.3%22W/@51.4403895,-116.5439459,17z/data=!4m5!3m4!1s0x0:0x0!8m2!3d51.4403895!4d-116.5417572">Emerald Lake</a> is one of the most beatiful places that I have ever been to
-* <img width="20" src="https://th.bing.com/th/id/R1f76efdfd131daf44c7af1ef4a9026d9?rik=qG6sBpJpY%2bjpIQ&riu=http%3a%2f%2fclipart-library.com%2fnew_gallery%2f266-2666042_yorkie-emojis-for-dog-lovers-messages-sticker-8.png&ehk=v%2f47NW1%2fqJ0dk5fNj7OxkYcAOK8XxZeZhUPpr4DjV%2bc%3d&risl=&pid=ImgRaw" alt="" /> <a href="https://www.instagram.com/littlefrodothedog/">Frodo</a> is the best friend I have, and guess what? He has four paws 🐾🐾 
-
 
 <br>
 
