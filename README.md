@@ -28,11 +28,12 @@ and contributing to some exciting projects in the AI space!
 <br>
 
 ## 🛠️Tech Stack
-- 👩‍💻 Programming Languages
+- 👩‍💻 Programming Languages:
 
     ![C#](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=c-sharp)&nbsp;
     ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+  <br>
  - 📊 Databases:
     ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=Sql&logoColor)&nbsp;
 
