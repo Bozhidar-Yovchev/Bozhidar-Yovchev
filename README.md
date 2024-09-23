@@ -20,7 +20,7 @@ and contributing to some exciting projects in the AI space!
 <br>
 
 ## 👩‍💻 About me
-* <img width="16" src="flag_bulgaria.png"/> I'm from Bulgaria
+* <img width="16" src="flag-bulgaria.png"/> I'm from Bulgaria
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
 * 👩‍🏫 Love teaching and sharing knowledge
