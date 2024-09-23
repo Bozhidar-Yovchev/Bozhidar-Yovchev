@@ -33,10 +33,8 @@ and contributing to some exciting projects in the AI space!
     ![C#](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=c-sharp)&nbsp;
     ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-    ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
-    ![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=Scala&logoColor=DC143C)&nbsp;
+ - 📊 Databases:
     ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=Sql&logoColor)&nbsp;
-    ![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat&logo=Perl&logoColor=FFA518)&nbsp;
 
 <br>
 
