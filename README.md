@@ -21,7 +21,7 @@ and contributing to some exciting projects in the AI space!
 
 ## 👨‍💻 About me
 * <img width="16" src="flag-bulgaria.png"/> I'm from Bulgaria
-* <img width="16" src="🖥️" alt="" /> Love Programming
+* 🖥️ Learning programming
 * <img width="16" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="" /> My most used language is C#
 * 📚 Love learning new stuff and teaching others
 
