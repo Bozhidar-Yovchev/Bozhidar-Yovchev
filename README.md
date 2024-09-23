@@ -35,7 +35,7 @@ and contributing to some exciting projects in the AI space!
     ![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=Scala&logoColor=DC143C)&nbsp;
     ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor)&nbsp;
     ![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat&logo=Perl&logoColor=FFA518)&nbsp;
-    ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=c++)&nbsp;
+    ![PHP](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
     ![C](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=c-sharp)&nbsp;
 - ☁️ Cloud
       
